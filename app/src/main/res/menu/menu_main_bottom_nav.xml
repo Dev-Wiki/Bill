@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:enabled="true"
+          android:id="@+id/bottom_nav_bill"
+          android:icon="@drawable/ic_bill_white_24dp"
+          android:title="账单"
+          app:showAsAction="always"/>
+
+    <item android:enabled="true"
+          android:id="@+id/bottom_nav_template"
+          android:icon="@drawable/ic_template_white_24dp"
+          android:title="模板"
+          app:showAsAction="always"/>
+
+    <item android:enabled="true"
+          android:id="@+id/bottom_nav_report"
+          android:icon="@drawable/ic_report_white_24dp"
+          android:title="报表"
+          app:showAsAction="always"/>
+
+    <item android:enabled="true"
+          android:id="@+id/bottom_nav_tool"
+          android:icon="@drawable/ic_tool_white_24dp"
+          android:title="工具"
+          app:showAsAction="always"/>
+</menu>

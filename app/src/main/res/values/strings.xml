@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="bottom_nav_bill">账单</string>
+    <string name="bottom_nav_template">模板</string>
+    <string name="bottom_nav_report">报表</string>
+    <string name="bottom_nav_tool">工具</string>
+</resources>
